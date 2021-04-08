@@ -1,0 +1,171 @@
+/* Media to control width screen */
+
+@media(max-width:1440px){
+.header-main {
+    width: 33%;	
+}
+}
+@media(max-width:1366px){
+.header-main {
+    width: 35%;
+}
+}
+@media(max-width:1280px){
+.header-main {
+    width: 38%;
+}	
+}
+@media(max-width:1024px){
+.header-main {
+    width: 46%;
+}
+.header-main h1 {
+    font-size: 63px;
+}	
+}
+@media(max-width:991px){
+.header-main {
+    width: 48%;
+}
+}
+@media(max-width:800px){
+.header-main {
+    width: 60%;
+}
+}
+@media(max-width:768px){
+.header-main {
+    width: 61%;
+}
+span.sin-color {
+    font-size: 14px;
+}
+}
+@media(max-width:736px){
+.header-main {
+    width: 65%;
+}
+}
+@media(max-width:667px){
+.header-main h1 {
+    font-size: 60px;
+}
+.header-main {
+    width: 67%;
+}
+.strip-left.middle {
+    margin: 0px 16px;
+}
+}
+@media(max-width:640px){
+.header-main h1 {
+    padding-bottom: 1.1em;
+}
+.header-main {
+    width: 70%;
+}
+}
+@media(max-width:600px){
+.header-main h1 {
+    font-size: 56px;
+}
+}
+@media(max-width:568px){
+.header-main {
+    width: 80%;
+}
+}
+@media(max-width:480px){
+.header-main {
+    padding: 60px 0px 30px;
+}
+.header-main h1 {
+    font-size: 45px;
+}
+.header-left-bottom input[type="text"] {
+    width: 83%;
+}
+.header-left-bottom input[type="password"] {
+    width: 83%;
+}
+.header-main {
+    width: 73%;
+}
+.header-left-bottom input[type="submit"] {
+    font-size: 22px;
+}
+}
+@media(max-width:414px){
+.header-left-bottom input[type="text"] {
+    width: 80%;
+}
+.header-left-bottom input[type="password"] {
+    width: 80%;
+}
+.header-main {
+    width: 75%;
+}
+.header-left-bottom input[type="submit"] {
+    font-size: 20px;
+}
+.header-main {
+    padding: 60px 0px 12px;
+}
+.header-main h1 {
+    font-size: 42px;
+}
+}
+@media(max-width:384px){
+.header-main h1 {
+    font-size: 38px;
+}
+}
+@media(max-width:375px){
+.header-main {
+    width: 78%;
+}
+}
+@media(max-width:320px){
+.header-main {
+    width: 85%;
+}
+.header-main {
+    padding: 25px 0px 15px 0px;	
+}
+.header-left-bottom input[type="text"] {
+    padding: 12px 13px 15px 44px;
+    width: 77%;
+}
+.header-left-bottom input[type="password"] {
+    padding: 12px 13px 15px 44px;
+    width: 77%;
+}
+.header-main h1 {
+    font-size: 36px;
+}
+.header-left-bottom input[type="submit"] {
+    font-size: 19px;
+}
+.checkbox {
+    font-size: 0.8em;
+}
+.forgot h6 {
+    font-size: 0.9em;
+}
+.header-left-bottom h3 {
+    font-size: 12px;
+}
+.header-main h1 {
+    padding-bottom: 1em;
+}
+.remember {
+    margin: 0.5em 0em;
+}
+.header-left-bottom input[type="password"] {
+    margin: 0 0 17px;
+}
+.header-left-bottom input[type="text"] {
+    margin: 0 0 17px;
+}
+}
+/*--meadia quries end here--*/
