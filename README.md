@@ -1,6 +1,6 @@
 # ZileanApp
- This is just a app to adress the problems of the fuck**g EPM
+ This is only a app to adress my problems with the fuck**g Microsoft EPM 
  
- EPM is a software to put work hours made by day. My app address some problems and implement new cool features.
+ EPM is a software to put work hours made by day (and spend my time). My app address some problems in layout and implement new cool features.
  
- The project not was finalized yet, so keep calm =)
+ The project is not finalized yet, so keep calm =)
